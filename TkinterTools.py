@@ -1,5 +1,5 @@
-#TkinterTools V1.0
-#By Felipe Amaral
+# TkinterTools V1.0
+# By Felipe Amaral
 from win32api import GetMonitorInfo, MonitorFromPoint
 
 # Use to know the desktop or screen size!
